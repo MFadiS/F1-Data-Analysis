@@ -14,7 +14,7 @@ CSVs: qualifying_results.csv, Kaggle: https://www.kaggle.com/datasets/henriquere
 
 #### Clone the repository
 
-'''
+'''python
 git clone https://github.com/yourusername/f1-qualifying-eda.git
 cd f1-qualifying-eda
 '''
